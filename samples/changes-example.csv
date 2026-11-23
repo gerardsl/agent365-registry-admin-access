@@ -1,0 +1,3 @@
+id,displayName,description,addOwnerIds,removeOwnerIds
+my-sales-agent,Sales assistant,Sales agent reviewed by IAM,,
+my-hr-agent,,,00000000-0000-0000-0000-000000000001,00000000-0000-0000-0000-000000000002

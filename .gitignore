@@ -1,0 +1,13 @@
+# Tenant data written by the scripts
+output/
+snapshots/
+
+# Certificates and keys
+*.pfx
+*.p12
+*.cer
+*.crt
+*.pem
+*.key
+
+*.log
